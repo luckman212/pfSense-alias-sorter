@@ -1,4 +1,4 @@
-# pfSense-alias-sorter
+# pfSense alias sorter
 
 a Python script for people with both pfSense and OCD (which naturally includes myself)
 
